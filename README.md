@@ -1,6 +1,6 @@
 ## Random Joke Generator
 # live
-https://anilsjr/github.io/random-joke
+https://anilsjr.github.io/random-joke
 
 ### Description
 
